@@ -36,3 +36,17 @@ It showcases delicious food items with category-based filtering, search function
 
 ## 📂 Project Structure
 
+Food-zone/
+│
+├── index.html
+├── package.json
+├── vite.config.js
+├── public/
+├── src/
+│ ├── components/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── assets/
+│
+└── README.md
+
